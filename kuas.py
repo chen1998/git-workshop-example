@@ -1,7 +1,7 @@
 #! /usr/bin/python3
 
 """
-# Here for person A
+
 
 import requests
 from lxml import etree
