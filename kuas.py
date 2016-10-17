@@ -23,7 +23,7 @@ def getlist():
 	return News
 
 
-"""
+
 # Here for person B
 
 def getcontent( url ):
